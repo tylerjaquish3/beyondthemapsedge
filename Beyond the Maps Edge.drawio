@@ -4,79 +4,79 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-1" value="Can you find what lives in time" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-1" value="Can you find what lives in time" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-27" value="&lt;ul&gt;&lt;li&gt;Time on the clock that he sets in the documentary&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7YmUo_-SUHRZRapzLXrJ-1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-27" value="&lt;ul&gt;&lt;li&gt;Time on the clock that he sets in the documentary&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7YmUo_-SUHRZRapzLXrJ-1" vertex="1">
           <mxGeometry x="10" y="33" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-2" value="Flowing through each measure rhyme?" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-2" value="Flowing through each measure rhyme?" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-3" value="Wisdom waits in shadowed sight" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-3" value="Wisdom waits in shadowed sight" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-4" value="For those who read these words just right" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-4" value="For those who read these words just right" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="80" y="880" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-5" value="As hope surges, clear and bright" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-5" value="As hope surges, clear and bright" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-6" value="Walk near waters&#39; silent flight." style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-6" value="Walk near waters&#39; silent flight." style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="600" y="320" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-22" value="Clouds? Waterfall?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7YmUo_-SUHRZRapzLXrJ-6">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-22" value="Clouds? Waterfall?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7YmUo_-SUHRZRapzLXrJ-6" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-7" value="Round the bend, past the Hole," style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-7" value="Round the bend, past the Hole," style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="600" y="600" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-8" value="I wait for you to cast your pole." style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-8" value="I wait for you to cast your pole." style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="600" y="880" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-25" value="&lt;ul&gt;&lt;li&gt;Fishing pole&lt;/li&gt;&lt;li&gt;Magnetic pole, like on a compass&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7YmUo_-SUHRZRapzLXrJ-8">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-25" value="&lt;ul&gt;&lt;li&gt;Fishing pole&lt;/li&gt;&lt;li&gt;Magnetic pole, like on a compass&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7YmUo_-SUHRZRapzLXrJ-8" vertex="1">
           <mxGeometry x="-10" y="28" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-9" value="In ursa east his realm awaits;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-9" value="In ursa east his realm awaits;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="1120" y="40" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-24" value="&lt;ul&gt;&lt;li&gt;Ursa minor or ursa major, could be related to Polaris as the north star&lt;/li&gt;&lt;li&gt;Simply bear east&lt;/li&gt;&lt;li&gt;Who is &quot;him&quot; ?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7YmUo_-SUHRZRapzLXrJ-9">
-          <mxGeometry x="-25" y="33" width="430" height="80" as="geometry" />
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-24" value="&lt;ul&gt;&lt;li&gt;Ursa minor or ursa major, could be related to Polaris as the north star&lt;/li&gt;&lt;li&gt;Simply bear east&lt;/li&gt;&lt;li&gt;Who is &quot;him&quot; ?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7YmUo_-SUHRZRapzLXrJ-9" vertex="1">
+          <mxGeometry y="33" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-10" value="His bride stands guard at ancient gates." style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-10" value="His bride stands guard at ancient gates." style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="1120" y="320" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-11" value="Her foot of three at twenty degree," style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-11" value="Her foot of three at twenty degree," style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="1120" y="600" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-12" value="Return her face to find the place." style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-12" value="Return her face to find the place." style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="1120" y="880" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-13" value="Double arcs on granite bold," style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-13" value="Double arcs on granite bold," style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1680" y="40" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-14" value="Where secrets of the past still hold." style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-14" value="Where secrets of the past still hold." style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1680" y="320" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-15" value="Beyond the reach of time&#39;s swift race," style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-15" value="Beyond the reach of time&#39;s swift race," style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1680" y="600" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-16" value="Wonder guards this sacred space." style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-16" value="Wonder guards this sacred space." style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1680" y="880" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-26" value="&lt;ul&gt;&lt;li&gt;He sometimes refers to Brandon as a sense of wonder&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7YmUo_-SUHRZRapzLXrJ-16">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-26" value="&lt;ul&gt;&lt;li&gt;He sometimes refers to Brandon as a sense of wonder&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7YmUo_-SUHRZRapzLXrJ-16" vertex="1">
           <mxGeometry y="28" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-17" value="Truth rests not in clever minds," style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-17" value="Truth rests not in clever minds," style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="2240" y="40" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-18" value="Not in tangled, twisted finds." style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-18" value="Not in tangled, twisted finds." style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="2240" y="320" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-19" value="Like a river&#39;s steady flow--" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-19" value="Like a river&#39;s steady flow--" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="2240" y="600" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YmUo_-SUHRZRapzLXrJ-20" value="What you seek, you already know." style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="7YmUo_-SUHRZRapzLXrJ-20" value="What you seek, you already know." style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="2240" y="880" width="480" height="200" as="geometry" />
         </mxCell>
       </root>
